@@ -28,3 +28,4 @@ ollama list
 - The server forwards them to Ollama's local API at `http://127.0.0.1:11434`.
 - Ollama streams the response back as newline-delimited JSON.
 - No cloud API key is needed and prompts stay on this machine.
+mahesh
