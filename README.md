@@ -21,7 +21,7 @@ The app discovers models already installed in Ollama. For example:
 ollama pull llama3.2
 ollama list
 ```
-
+ mf
 ## How it works
 
 - The browser sends chat messages to the local Python server.
